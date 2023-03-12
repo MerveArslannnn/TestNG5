@@ -1,6 +1,6 @@
 package GUN02;
 
-import Utility.MyFunc;
+import Utility.Tools;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeDriverService;
@@ -52,7 +52,7 @@ public class _01_Enable {
     @AfterClass
     public void bitisIslemleri()
     {
-        MyFunc.Bekle(5);
+        Tools.Bekle(5);
         driver.quit();
     }
 }
