@@ -1,0 +1,20 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suit">
+    <test name="test1">
+        <parameter name="arama" value="mac"></parameter>
+        <parameter name="browserTipi" value="chrome"></parameter>
+        <classes>
+            <class name="GUN05._01_SeachFunctionality"></class>
+        </classes>
+    </test>
+
+    <test name="test2">
+        <parameter name="arama" value="mac"></parameter>
+        <parameter name="browserTipi" value="firebox"></parameter>
+        <classes>
+            <class name="GUN05._01_SeachFunctionality"></class>
+        </classes>
+    </test>
+
+</suite>
