@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c237cb-b6c8-487d-b2fc-587e03541cdf" name="Changes" comment="gun07">
-      <change afterPath="$PROJECT_DIR$/src/GUN05/_02_DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN05/_03_DataProvider_CokBoyutlu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN05/_04_Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN05/_05_Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN06/_01_SoftAssertVsHardAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN06/_02_PlaceOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN06/_03_PlaceOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN06/_03_PlaceOrderElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN07/XML/_01_WishList.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN07/_01_WishList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN07/XML/_01_WishListPOM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN07/_01_WishListPOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN07/_02_WishListElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUN02/_02_Ornek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUN02/_02_Ornek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utility/BaseDriverParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utility/BaseDriverParameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utility/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utility/Tools.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,10 +66,10 @@
       <recent name="Utility" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML/_01_WishList.xml">
-    <configuration name="C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML/_01_WishList.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML/_01_WishListPOM.xml">
+    <configuration name="C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML/_01_WishListPOM.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG5" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/GUN07/XML/_01_WishList.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/GUN07/XML/_01_WishListPOM.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -87,18 +77,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_SoftAssertVsHardAssert.softAssert" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML/_01_WishList.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GUN06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="GUN06" />
-      <option name="MAIN_CLASS_NAME" value="GUN06._01_SoftAssertVsHardAssert" />
-      <option name="METHOD_NAME" value="softAssert" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/GUN07/XML/_01_WishList.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -160,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML/_01_WishListPOM.xml" />
         <item itemvalue="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML/_01_WishList.xml" />
         <item itemvalue="TestNG._02_PlaceOrder.Test1" />
         <item itemvalue="TestNG._03_PlaceOrder.ProceedToCheckout" />
         <item itemvalue="TestNG._03_PlaceOrder" />
-        <item itemvalue="TestNG._01_SoftAssertVsHardAssert.softAssert" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678899168698</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="gun07">
+      <created>1679330862337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679330862337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
