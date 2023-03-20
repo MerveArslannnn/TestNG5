@@ -1,0 +1,26 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suit" parallel="tests" thread-count="3">
+    <test name="test1">
+
+        <parameter name="browserTipi" value="chrome"></parameter>
+        <classes>
+            <class name="GUN05._05_Task2"></class>
+        </classes>
+    </test>
+
+    <test name="test2">
+
+        <parameter name="browserTipi" value="firebox"></parameter>
+        <classes>
+            <class name="GUN05._05_Task2"></class>
+        </classes>
+    </test>
+    <test name="test3">
+
+        <parameter name="browserTipi" value="edge"></parameter>
+        <classes>
+            <class name="GUN05._05_Task2"></class>
+        </classes>
+    </test>
+
+</suite>

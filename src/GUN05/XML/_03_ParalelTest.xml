@@ -1,0 +1,19 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MySuite" parallel="tests" thread-count="2">
+    <parameter name="arama" value="mac"></parameter>
+    <test name="myTest1">
+        <parameter name="browserTipi" value="firefox"></parameter>
+
+        <classes>
+            <class name="GUN05._01_SeachFunctionality"></class>
+        </classes>
+    </test>
+    <test name="myTest2">
+        <parameter name="browserTipi" value="chrome"></parameter>
+
+        <classes>
+            <class name="GUN05._01_SeachFunctionality"></class>
+        </classes>
+    </test>
+</suite>
