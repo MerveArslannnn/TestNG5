@@ -23,5 +23,6 @@ public class _02_Ornek extends BaseDriver {
         //Assert.assertEquals(driver.getTitle(),"My Account","Login olamadı");
 
 
+
     }
 }

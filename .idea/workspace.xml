@@ -4,30 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86c237cb-b6c8-487d-b2fc-587e03541cdf" name="Changes" comment="2. kayıt">
-      <change afterPath="$PROJECT_DIR$/src/GUN03/_01_Dependency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN03/_02_AddressFunctionality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/XML/_01_Basic.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/XML/_02_MultipleClasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/XML/_03_MultipleTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/XML/_04_Groups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/XML/_05_GroupsExcude.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/XML/_06_GroupsMethodExclude.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/XML/_07_GroupsMultiple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/XML/_08_ContactUS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/XML/_08_ContactUS_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/XML/_10_SeachFunctionality.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/_01_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/_02_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/_03_Groups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/_04_ContactUs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN04/_05_SeachFunctionality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN05/XML/_01_SeachPD.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN05/XML/_02_Seach_Cross_Browser.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUN05/_01_SeachFunctionality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utility/BaseDriverParameter.java" afterDir="false" />
+    <list default="true" id="86c237cb-b6c8-487d-b2fc-587e03541cdf" name="Changes" comment="gun07">
+      <change afterPath="$PROJECT_DIR$/src/GUN05/_02_DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN05/_03_DataProvider_CokBoyutlu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN05/_04_Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN05/_05_Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN06/_01_SoftAssertVsHardAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN06/_02_PlaceOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN06/_03_PlaceOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN06/_03_PlaceOrderElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN07/XML/_01_WishList.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUN07/_01_WishList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utility/BaseDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utility/BaseDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUN02/_02_Ornek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUN02/_02_Ornek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utility/BaseDriverParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utility/BaseDriverParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utility/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utility/Tools.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +52,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/merve/IdeaProjects/TestNG5/src/GUN05/XML",
+    "last_opened_file_path": "C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -71,6 +62,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\merve\IdeaProjects\TestNG5\src\GUN07\XML" />
       <recent name="C:\Users\merve\IdeaProjects\TestNG5\src\GUN05\XML" />
       <recent name="C:\Users\merve\IdeaProjects\TestNG5\src\GUN04\XML" />
     </key>
@@ -79,14 +71,15 @@
       <recent name="C:\Users\merve\IdeaProjects\TestNG5\src\GUN04\XML" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="GUN06" />
       <recent name="GUN05.XML" />
       <recent name="Utility" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN05/XML/_02_Seach_Cross_Browser.xml">
-    <configuration name="C:/Users/merve/IdeaProjects/TestNG5/src/GUN04/XML/_08_ContactUS_2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML/_01_WishList.xml">
+    <configuration name="C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML/_01_WishList.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG5" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/GUN04/XML/_08_ContactUS_2.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/GUN07/XML/_01_WishList.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -94,47 +87,70 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/merve/IdeaProjects/TestNG5/src/GUN04/XML/_10_SeachFunctionality.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG5" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/GUN04/XML/_10_SeachFunctionality.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/merve/IdeaProjects/TestNG5/src/GUN05/XML/_01_SeachPD.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG5" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/GUN05/XML/_01_SeachPD.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/merve/IdeaProjects/TestNG5/src/GUN05/XML/_02_Seach_Cross_Browser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG5" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/GUN05/XML/_02_Seach_Cross_Browser.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_01_SeachFunctionality.SeachFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="_01_SoftAssertVsHardAssert.softAssert" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GUN05.*" />
+          <option name="PATTERN" value="GUN06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="GUN05" />
-      <option name="MAIN_CLASS_NAME" value="GUN05._01_SeachFunctionality" />
-      <option name="METHOD_NAME" value="SeachFunctionality" />
+      <option name="PACKAGE_NAME" value="GUN06" />
+      <option name="MAIN_CLASS_NAME" value="GUN06._01_SoftAssertVsHardAssert" />
+      <option name="METHOD_NAME" value="softAssert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_PlaceOrder.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUN06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GUN06" />
+      <option name="MAIN_CLASS_NAME" value="GUN06._02_PlaceOrder" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_PlaceOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUN06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GUN06" />
+      <option name="MAIN_CLASS_NAME" value="GUN06._03_PlaceOrder" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_PlaceOrder.ProceedToCheckout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUN06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GUN06" />
+      <option name="MAIN_CLASS_NAME" value="GUN06._03_PlaceOrder" />
+      <option name="METHOD_NAME" value="ProceedToCheckout" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -144,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN05/XML/_02_Seach_Cross_Browser.xml" />
-        <item itemvalue="TestNG._01_SeachFunctionality.SeachFunctionality" />
-        <item itemvalue="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN05/XML/_01_SeachPD.xml" />
-        <item itemvalue="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN04/XML/_10_SeachFunctionality.xml" />
-        <item itemvalue="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN04/XML/_08_ContactUS_2.xml" />
+        <item itemvalue="TestNG.C:/Users/merve/IdeaProjects/TestNG5/src/GUN07/XML/_01_WishList.xml" />
+        <item itemvalue="TestNG._02_PlaceOrder.Test1" />
+        <item itemvalue="TestNG._03_PlaceOrder.ProceedToCheckout" />
+        <item itemvalue="TestNG._03_PlaceOrder" />
+        <item itemvalue="TestNG._01_SoftAssertVsHardAssert.softAssert" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678656130092</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gun05">
+      <created>1678899168698</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678899168698</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +215,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1. kayıt" />
     <MESSAGE value="2. kayıt" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. kayıt" />
+    <MESSAGE value="gun05" />
+    <MESSAGE value="gun07" />
+    <option name="LAST_COMMIT_MESSAGE" value="gun07" />
   </component>
 </project>
